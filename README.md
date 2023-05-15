@@ -1,6 +1,18 @@
-- 👋🌎 HelloWorld, I’m @doriglia from 🇦🇷
+- 👋🌎 HelloWorld, I’m @doriglia
 - 👀 I’m interested in Coding, Traveling, Ashtanga Yoga, Bouldering, etc, etc.
-- 💻 I have experience on Java, Spring Boot, Lombok, Docker, Git, Gradle, Python, JSON, HTML, GraphQL, SQL.
+- 🎓 Computer Engineering. UNC, Córdoba, Argentina. (progress: 70%)
+- 💻 I have experience on 
+  - Java  
+  - Spring Boot
+  - Git
+  - Gradle
+  - Lombok
+  - Docker
+  - Python
+  - JSON
+  - HTML
+  - GraphQL
+  - SQL
 - 📫 How to reach me: origliadiego.dev@gmail.com 
 - 🌐 : 🇪🇸 / 🇬🇧
 
