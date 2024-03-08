@@ -14,7 +14,7 @@
   - GraphQL
   - SQL
 - 📫 How to reach me: origliadiego.dev@gmail.com 
-- 🌐 : 🇪🇸 / 🇬🇧
+- 🌐 : 🇪🇸 / 🇬🇧 / 🇮🇹
 
 <!---
 doriglia/doriglia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
